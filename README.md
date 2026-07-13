@@ -132,12 +132,27 @@ Install the required packages:
 
 If you use this work, please cite:
 
-    @inproceedings{bhalerao2026mosaig,
-      title     = {When Cultures Meet: Multicultural Text-to-Image Generation},
-      author    = {Bhalerao, Parth and Ignat, Oana and Trinh, Brian and Yalamarty, Mounika},
-      booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
-      year      = {2026}
-    }
+@inproceedings{bhalerao-etal-2026-cultures,
+    title = "When Cultures Meet: Multicultural Text-to-Image Generation",
+    author = "Bhalerao, Parth  and
+      Ignat, Oana  and
+      Trinh, Brian  and
+      Yalamarty, Mounika",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1783/",
+    doi = "10.18653/v1/2026.findings-acl.1783",
+    pages = "35808--35828",
+    ISBN = "979-8-89176-395-1",
+    abstract = "Text-to-image generation models have achieved strong performance in culturally homogeneous settings, yet their ability to generate multicultural scenes{---}where people and landmarks originate from different cultures{---}remains largely unexplored. We introduce multicultural text-to-image generation as a new task and present the first benchmark designed to study this setting. Our dataset contains 9,000 images spanning five countries, three age groups, two genders, 25 historical landmarks, and five languages. Using this benchmark, we analyze the behavior of state-of-the-art text-to-image models across multiple dimensions, including alignment, image quality, aesthetics, knowledge, and fairness. As one strategy for composing cultural and demographic information, we explore MosAIG, a Multi-Agent framework that enhances multicultural image generation by leveraging large language models with distinct cultural personas. Our analysis shows that richer prompt composition can improve image quality and cultural grounding compared to simple prompts, while also revealing substantial disparities across languages and demographic groups. We release our dataset and code at https://github.com/AIM-SCU/MosAIG"
+}
 
 ---
 

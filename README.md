@@ -1,4 +1,4 @@
-# When Cultures Meet: Multicultural Text-to-Image Generation
+# When Cultures Meet: Measuring and Improving Multicultural and Multilingual Text-to-Image Generation
 
 This repository contains the code and data for our paper:
 

@@ -158,6 +158,6 @@ If you use this work, please cite:
 
 ## Links
 
-- 📄 **Paper**: [ACL Findings 2026]([https://arxiv.org/pdf/2502.15972](https://aclanthology.org/2026.findings-acl.1783.pdf))
+- 📄 **Paper**: [ACL Findings 2026](https://aclanthology.org/2026.findings-acl.1783.pdf)
 - 🤗 **Dataset**: [HuggingFace](https://huggingface.co/datasets/AIM-SCU/WhenCulturesMeet)
 - 💻 **Code**: [GitHub](https://github.com/AIM-SCU/WhenCulturesMeet)
